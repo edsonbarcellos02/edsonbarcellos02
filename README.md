@@ -5,8 +5,6 @@
 [![Site](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/edson_barcellos/)
 
 
-![Edson Barcelos GitHub stats](https://github-readme-stats.vercel.app/api?username=edsonbarcellos02&show_icons=true&theme=tokyonight)
-
 ## Tecnologias que uso no meu dia
 
 <div style="display: inline-block"><br/>

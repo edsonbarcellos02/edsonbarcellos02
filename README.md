@@ -2,7 +2,6 @@
 
 [![Site](https://img.shields.io/website?label=edsondev.com.br&style=for-the-badge&url=https://edsondev.vercel.app/)](https://edsondev.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edson-c%C3%A1ssio-barcelos-dos-santos-ferreira-974b76167)
-[![Site](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/edson_barcellos/)
 
 
 ## Tecnologias que uso no meu dia

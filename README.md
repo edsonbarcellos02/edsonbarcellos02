@@ -1,6 +1,6 @@
 ### Olá! Eu sou Edson Barcelos 👋
 
-[![Site](https://img.shields.io/website?label=edsondev.com.br&style=for-the-badge&url=https://edsondev.vercel.app/)](https://edsondev.vercel.app/)
+[![Site](https://img.shields.io/website?label=edsondev.com.br&style=for-the-badge&url=https://edsoncassio.com/)](https://edsoncassio.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edson-c%C3%A1ssio-barcelos-dos-santos-ferreira-974b76167)
 
 
